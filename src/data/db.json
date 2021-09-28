@@ -1,0 +1,75 @@
+{
+  "best_product" : [
+    {
+      "tittle" :  "Solimo Coffee Beans",
+      "id" : 1,
+      "weight" : 2,
+      "price" :  10.73,
+      "image" : "/815O9ktyfUL.png"
+    },
+    {
+      "tittle" :  "Presto Coffee Beans",
+      "id" : 2,
+      "weight" : 1,
+      "price" :  15.99,
+      "image" : "/91Ryk2gKejL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 3,
+      "weight" : 1,
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    }
+  ],
+  "product" : [
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 1,
+      "weight" : 1,
+      "country" : "Brazil",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 2,
+      "weight" : 1,
+      "country" : "Kenya",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee",
+      "id" : 3,
+      "weight" : 1,
+      "country" : "Columbia",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 4,
+      "weight" : 1,
+      "country" : "Brazil",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 5,
+      "weight" : 1,
+      "country" : "Brazil",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    },
+    {
+      "tittle" :  "AROMISTICO Coffee ",
+      "id" : 6,
+      "weight" : 1,
+      "country" : "Brazil",
+      "price" :  6.99,
+      "image" : "/71qBQnpQFYL.png"
+    }
+  ]
+}
